@@ -7,7 +7,7 @@ The Cable Modem Repo.
 - [SBG6580](http://sourceforge.net/projects/sbg6580.arris/files/latest/download?source=directory) - 40.9 MB
 - [NVG589](http://sourceforge.net/projects/nvg589.arris/files/latest/download?source=directory) - 493.0 MB
 - [SB61XX](http://sourceforge.net/projects/sb6120.arris/files/latest/download?source=directory) - 48.4 MB
-- [SB6141](http://sourceforge.net/projects/sb6141.arris/files/latest/download?source=directory)
+- [SB6141](http://sourceforge.net/projects/sb6141.arris/files/latest/download?source=directory) - 74.6 MB
 - [NVG510](http://sourceforge.net/projects/nvg510.arris/files/latest/download?source=directory) - 242.3 MB
 - [SB6183](http://sourceforge.net/projects/sb6183.arris/files/latest/download?source=directory) - 39.8 MB
 - [NVG595](http://sourceforge.net/projects/nvg595.arris/files/latest/download?source=directory) - 271.5 MB
