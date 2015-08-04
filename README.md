@@ -13,7 +13,7 @@ The Cable Modem Repo.
 - [NVG595](http://sourceforge.net/projects/nvg595.arris/files/latest/download?source=directory) - 271.5 MB
 
 ###Documentation:
-- [Serial Port & Modem Basics](https://mega.co.nz/#!D8dTWD5T!mFJPREQOeS3sBg28oeTtQzybNEHP6XOSZ5ld25wqt1E)
+- [Serial Port & Modem Basics](http://tldp.org/HOWTO/Modem-HOWTO-4.html)
 - [Unpacking Firmware Images from Cable Modems](http://w00tsec.blogspot.com/2013/11/unpacking-firmware-images-from-cable.html)
 - [DOCSIS 3.0 Security Specification](http://www.cablelabs.com/wp-content/uploads/specdocs/CM-SP-SECv3.0-I15-130808.pdf)
 - [DOCSIS 3.1 Security Specification](http://www.cablelabs.com/wp-content/uploads/specdocs/CM-SP-SECv3.1-I03-150611.pdf)
