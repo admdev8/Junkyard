@@ -40,6 +40,7 @@ The Cable Modem Repo.
 - [DOCSIS 1.1 Cable Modem Termination  Systems](http://www.cascaderange.org/presentations/DOCSIS_1_1_QoS.pdf)
 - [DSL and Cable Modem Networks](http://docslide.us/documents/dsl-and-cable-modem-networks.html)
 - [TWC Approved modems list](http://www.timewarnercable.com/content/dam/residential/pdfs/enjoy/better-twc/bettertwc_approvedmodems.pdf)
+- [CMTS setup](http://docslide.us/documents/cable-modem-terminate-system-setup-devil-huang.html)
 
 ###Videos:
 - [Sniffing Cable Modems](https://www.youtube.com/watch?v=7a_x10qi4Cs)
