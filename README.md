@@ -64,6 +64,16 @@ The Cable Modem Repo.
 - [Suddenlink Signed](https://mega.co.nz/#F!ylkylTqR!LsMa9XSYG6sqSFmV_cjzlQ)
 - [Un-Categorized](https://mega.co.nz/#F!To9BBK5Y!vkKeKXCi6xPELT1NQ2mCxA)
 
+###Tools:
+- [docsis_server](https://github.com/bschirrmeister/docsis_server)
+- [lzma-unpacker](https://github.com/bmaia/lzma-unpacker)
+- [arrispwgen](https://github.com/borfast/arrispwgen.git)
+- [DOCSISutils](https://github.com/MrSpock/DOCSISutils)
+- [docsis-configfile](https://github.com/jhthorsen/docsis-configfile.git)
+- [rlaager/docsis](https://github.com/rlaager/docsis)
+- [Takeover](https://github.com/WarGamesLabs/Takeover)
+- [SNMP walking & Configuration binaries](https://mega.co.nz/#!ip9VjbDa!6g8LsqFdXSCG3xS0P7514X9AgrqCyV5WhecQIOxs2zo)
+
 ###Wiki:
 - [What is DOCSIS ?](https://en.wikipedia.org/wiki/DOCSIS)
 - [What is a CMTS ?](https://en.wikipedia.org/wiki/Cable_modem_termination_system)
