@@ -26,7 +26,6 @@ The Cable Modem Repo.
 - [DOCSIS 3.1 Pocket Guide 2014 (CableLabs)](https://mega.co.nz/#!zpdVXJqT!fNeIRSp5FrEbh1nHVZyayPc9n-sUIXTd-3BY4TKfQ6s)
 - [SNMP CPE Access Control in DOCSIS](https://mega.co.nz/#F!u19DmJAK!TZeAPbS8aLB-QmYvciIeTQ)
 - [Touch Stone Telephony](https://mega.co.nz/#F!Ht9XgBzA!ns0u00HDftNv_NuLw7Px0w)
-- [Understanding DOCSIS Data Throughput](https://mega.co.nz/#!WwNgkJha!xQOf7o8j1OCE8Jkv5A5HXcyYLZv57bKoshe5Kv9Kzxk)
 
 ###Papers:
 - [Cable Modem Hacking How-to](http://www.kumanov.com/docs/Cable%20Modem%20Hacking%20How-to.pdf)
@@ -35,6 +34,7 @@ The Cable Modem Repo.
 - [DOCSIS Insecure By design](https://www.defcon.org/images/defcon-16/dc16-presentations/defcon-16-self.pdf)
 - [Sniffing Cable Modems](https://www.defcon.org/images/defcon-16/dc16-presentations/defcon-16-martin.pdf)
 - [Surfboard Cable Modem Shell Commands](http://docslide.us/documents/surfboard-cable-modem-shell-commands.html)
+- [Understanding DOCSIS Data Throughput](https://mega.co.nz/#!WwNgkJha!xQOf7o8j1OCE8Jkv5A5HXcyYLZv57bKoshe5Kv9Kzxk)
 - [Creating DOCSIS Cable modem configuration files](http://docslide.us/documents/create-config-for-cable-modem.html)
 - [DOCSIS Cable Modem Connection Process](http://www.cascaderange.org/presentations/DOCSIS_Cable_Modem_Connection_Process.pdf)
 - [DOCSIS 1.1 Cable Modem Termination  Systems](http://www.cascaderange.org/presentations/DOCSIS_1_1_QoS.pdf)
