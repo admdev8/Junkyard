@@ -1,5 +1,5 @@
 #Junkyard
-The Cable Modem Repo.
+The Cable Modem Hacking Repo.
 
 - [FAQ](https://github.com/GuerrillaWarfare/Junkyard/wiki/FAQ)
 - [Roadmap](https://github.com/GuerrillaWarfare/Junkyard/wiki/Roadmap)
