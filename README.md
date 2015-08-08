@@ -67,7 +67,7 @@ The Cable Modem Repo.
 
 ###Exploits:
 - [SBG6580 DoS Reboot (2014)](https://www.exploit-db.com/exploits/30688/)
-- [ARRIS DG860A NVRAM Backup Password Disclosure](https://www.exploit-db.com/exploits/29131/)
+- [ARRIS DG860A NVRAM Backup Password Disclosure (2013)](https://www.exploit-db.com/exploits/29131/)
 - [Modem Default WPA2 Password Generation algorithms (2015)](https://github.com/GuerrillaWarfare/Crippled/blob/master/modules/modem.py)
 
 ###Tools:
