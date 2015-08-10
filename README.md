@@ -2,6 +2,7 @@
 The Cable Modem Hacking Repo.
 
 - [FAQ](https://github.com/GuerrillaWarfare/Junkyard/wiki/FAQ)
+- [Tweet](https://twitter.com/share)
 - [Roadmap](https://github.com/GuerrillaWarfare/Junkyard/wiki/Roadmap)
 
 ###Arris Cable Modem OSS:
@@ -67,7 +68,13 @@ The Cable Modem Hacking Repo.
 - [Firmware Image Dump](https://github.com/detrojones/Junkyard)
 
 ###Exploits:
+- [arris_dg950.rb](https://raw.githubusercontent.com/rapid7/metasploit-framework/e749733eb6118a4b089e288fc81050f76c8db5ed/modules/auxiliary/scanner/snmp/arris_dg950.rb)
+- [ubee_ddw3611.rb](https://raw.githubusercontent.com/rapid7/metasploit-framework/e749733eb6118a4b089e288fc81050f76c8db5ed/modules/auxiliary/scanner/snmp/ubee_ddw3611.rb)
+- [sbg6580_enum.rb](https://raw.githubusercontent.com/rapid7/metasploit-framework/e749733eb6118a4b089e288fc81050f76c8db5ed/modules/auxiliary/scanner/snmp/sbg6580_enum.rb)
 - [SBG6580 DoS Reboot (2014)](https://www.exploit-db.com/exploits/30688/)
+- [vap2500_tools_command_exec.rb](https://raw.githubusercontent.com/rapid7/metasploit-framework/e749733eb6118a4b089e288fc81050f76c8db5ed/modules/exploits/linux/http/vap2500_tools_command_exec.rb)
+- [Arris VAP2500 - Authentication Bypass(2014)](https://www.exploit-db.com/exploits/35372/)
+- [arris_motorola_surfboard_backdoor_xss.rb](https://raw.githubusercontent.com/rapid7/metasploit-framework/e749733eb6118a4b089e288fc81050f76c8db5ed/modules/auxiliary/admin/http/arris_motorola_surfboard_backdoor_xss.rb)
 - [ARRIS DG860A NVRAM Backup Password Disclosure (2013)](https://www.exploit-db.com/exploits/29131/)
 - [Modem Default WPA2 Password Generation algorithms (2015)](https://github.com/GuerrillaWarfare/Crippled/blob/master/modules/modem.py)
 
