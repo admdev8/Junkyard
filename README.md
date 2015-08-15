@@ -49,6 +49,12 @@ The Cable Modem Hacking Repo.
 - [Hacking DOCSIS For Fun and Profit ](https://www.youtube.com/watch?v=aaaJ86K-ovE)
 - [Free Anonymous Internet Using Modified Cable Modems](https://www.youtube.com/watch?v=Gkv2ZpuFKpU)
 
+###Posts:
+- [Technicolor tc7200 cable "modem"](https://hackaday.io/project/3441-technicolor-tc7200-cable-modem)
+- [Rooting The NVG510 from the WebUI](http://earlz.net/view/2012/06/07/0026/rooting-the-nvg510-from-the-webui)
+- [dump admin and wifi password from LAN](https://hackaday.io/project/3441-technicolor-tc7200-cable-modem/log/11329-dump-admin-and-wifi-password-from-lan)
+- [Motorola NVG510 Reverse Engineering Information](http://earlz.net/view/2012/06/04/0754/motorola-nvg510-reverse-engineering-information)
+
 ###Books:
 - [Hacking the cable modem](https://repo.zenk-security.com/Magazine%20E-book/EN-Hacking%20The%20Cable%20Modem.pdf)
 
@@ -77,6 +83,9 @@ The Cable Modem Hacking Repo.
 - [arris_motorola_surfboard_backdoor_xss.rb](https://raw.githubusercontent.com/rapid7/metasploit-framework/e749733eb6118a4b089e288fc81050f76c8db5ed/modules/auxiliary/admin/http/arris_motorola_surfboard_backdoor_xss.rb)
 - [ARRIS DG860A NVRAM Backup Password Disclosure (2013)](https://www.exploit-db.com/exploits/29131/)
 - [Modem Default WPA2 Password Generation algorithms (2015)](https://github.com/GuerrillaWarfare/Crippled/blob/master/modules/modem.py)
+
+###Websites:
+- [wikidevi](https://wikidevi.com/wiki/Main_Page)
 
 ###Tools:
 - [Takeover](https://github.com/WarGamesLabs/Takeover)
