@@ -68,12 +68,9 @@ The Cable Modem Hacking Repo.
 - [Firmware Image Dump](https://github.com/detrojones/Junkyard)
 
 ###Exploits:
-- [arrispwgen](https://github.com/borfast/arrispwgen.git)
 - [arris_dg950.rb](https://raw.githubusercontent.com/rapid7/metasploit-framework/e749733eb6118a4b089e288fc81050f76c8db5ed/modules/auxiliary/scanner/snmp/arris_dg950.rb)
 - [ubee_ddw3611.rb](https://raw.githubusercontent.com/rapid7/metasploit-framework/e749733eb6118a4b089e288fc81050f76c8db5ed/modules/auxiliary/scanner/snmp/ubee_ddw3611.rb)
 - [sbg6580_enum.rb](https://raw.githubusercontent.com/rapid7/metasploit-framework/e749733eb6118a4b089e288fc81050f76c8db5ed/modules/auxiliary/scanner/snmp/sbg6580_enum.rb)
-- [arrispod (Android)](https://github.com/hcgonzalezpr/arrispod.git)
-- [TM602X (Arris POTD C++)](https://github.com/daniel-j-h/TM602X)
 - [SBG6580 DoS Reboot (2014)](https://www.exploit-db.com/exploits/30688/)
 - [vap2500_tools_command_exec.rb](https://raw.githubusercontent.com/rapid7/metasploit-framework/e749733eb6118a4b089e288fc81050f76c8db5ed/modules/exploits/linux/http/vap2500_tools_command_exec.rb)
 - [Arris VAP2500 - Authentication Bypass(2014)](https://www.exploit-db.com/exploits/35372/)
@@ -89,6 +86,8 @@ The Cable Modem Hacking Repo.
 - [lzma-unpacker](https://github.com/bmaia/lzma-unpacker)
 - [rlaager/docsis](https://github.com/rlaager/docsis)
 - [docsis-configfile](https://github.com/jhthorsen/docsis-configfile.git)
+- [arrispod (Android)](https://github.com/hcgonzalezpr/arrispod.git)
+- [TM602X (Arris POTD C++)](https://github.com/daniel-j-h/TM602X)
 - [SNMP walking & Configuration binaries](https://mega.co.nz/#!ip9VjbDa!6g8LsqFdXSCG3xS0P7514X9AgrqCyV5WhecQIOxs2zo)
 
 ###Wiki:
