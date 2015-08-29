@@ -3,7 +3,8 @@ The Cable Modem Hacking Repo.
 
 - [FAQ](https://github.com/GuerrillaWarfare/Junkyard/wiki/FAQ)
 - [Tweet](https://twitter.com/share)
-- [Roadmap](https://github.com/GuerrillaWarfare/Junkyard/wiki/Roadmap)
+
+        The goal of this repository is to teach people about the vulnerabilities in the currently deployed DOCSIS protocols/modems & subsequently how to exploit those vulnerabilities for fun or profit.
 
 ###Arris Cable Modem OSS:
 - [NVG589](http://sourceforge.net/projects/nvg589.arris/files/latest/download?source=directory) - 493.0 MB
@@ -82,7 +83,6 @@ The Cable Modem Hacking Repo.
 - [Arris VAP2500 - Authentication Bypass(2014)](https://www.exploit-db.com/exploits/35372/)
 - [arris_motorola_surfboard_backdoor_xss.rb](https://raw.githubusercontent.com/rapid7/metasploit-framework/e749733eb6118a4b089e288fc81050f76c8db5ed/modules/auxiliary/admin/http/arris_motorola_surfboard_backdoor_xss.rb)
 - [ARRIS DG860A NVRAM Backup Password Disclosure (2013)](https://www.exploit-db.com/exploits/29131/)
-- [Modem Default WPA2 Password Generation algorithms (2015)](https://github.com/GuerrillaWarfare/Crippled/blob/master/modules/modem.py)
 
 ###Websites:
 - [wikidevi](https://wikidevi.com/wiki/Main_Page)
