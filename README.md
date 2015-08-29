@@ -4,8 +4,6 @@ The Cable Modem Hacking Repo.
 - [FAQ](https://github.com/GuerrillaWarfare/Junkyard/wiki/FAQ)
 - [Tweet](https://twitter.com/share)
 
-        The goal of this repository is to teach people about the vulnerabilities in the currently deployed DOCSIS protocols/modems & subsequently how to exploit those vulnerabilities for fun or profit.
-
 ###Arris Cable Modem OSS:
 - [NVG589](http://sourceforge.net/projects/nvg589.arris/files/latest/download?source=directory) - 493.0 MB
 - [SB61XX](http://sourceforge.net/projects/sb6120.arris/files/latest/download?source=directory) - 48.4 MB
