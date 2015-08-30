@@ -1,17 +1,19 @@
 #Junkyard
 The Cable Modem Hacking Repo.
 
-- [FAQ](https://github.com/GuerrillaWarfare/Junkyard/wiki/FAQ)
-- [Tweet](https://twitter.com/share)
-
-###Arris Cable Modem OSS:
-- [NVG589](http://sourceforge.net/projects/nvg589.arris/files/latest/download?source=directory) - 493.0 MB
-- [SB61XX](http://sourceforge.net/projects/sb6120.arris/files/latest/download?source=directory) - 48.4 MB
-- [SB6141](http://sourceforge.net/projects/sb6141.arris/files/latest/download?source=directory) - 74.6 MB
-- [NVG510](http://sourceforge.net/projects/nvg510.arris/files/latest/download?source=directory) - 242.3 MB
-- [SB6183](http://sourceforge.net/projects/sb6183.arris/files/latest/download?source=directory) - 39.8 MB
-- [NVG595](http://sourceforge.net/projects/nvg595.arris/files/latest/download?source=directory) - 271.5 MB
-- [SBG6580](http://sourceforge.net/projects/sbg6580.arris/files/latest/download?source=directory) - 40.9 MB
+###OSS:
+- [NVG589](http://sourceforge.net/projects/nvg589.arris/files/latest/download?source=directory)
+- [NVG510](http://sourceforge.net/projects/nvg510.arris/files/latest/download?source=directory)
+- [NVG595](http://sourceforge.net/projects/nvg595.arris/files/latest/download?source=directory)
+- [NG764X](http://sourceforge.net/projects/ng764x.arris/files/NG764x-OSS-1.3/NG764X-OSS-1.3.tar.gz/download)
+- [SB6141](http://sourceforge.net/projects/sb6141.arris/files/latest/download?source=directory)
+- [SB61XX](http://sourceforge.net/projects/sb6120.arris/files/latest/download?source=directory)
+- [SB6183](http://sourceforge.net/projects/sb6183.arris/files/latest/download?source=directory)
+- [SB5101](http://sourceforge.net/projects/sb5101.arris/files/SB5101-2.11.0.0-GA-04/SB5101-2.11.0.0-GA-04.tar.bz2/download)
+- [SBG6580](http://sourceforge.net/projects/sbg6580.arris/files/latest/download?source=directory)
+- [SBV6X2X](http://sourceforge.net/projects/sb6x2x.arris/files/)
+- [SBG901/SBG941](http://sourceforge.net/projects/sbg901.arris/files/SBG901-2.11.0.0-GA-07/SBG901-2.11.0.0-GA-07.tar.bz2/download)
+- [SVG1501/SVG2501](http://sourceforge.net/projects/svg2501.arris/files/SVG2501-2.10.1.0-GA-02/SVG2501-2.10.1.0-GA-02.tar.bz2/download)
 
 ###Documentation:
 - [Arris C3 CMTS](https://mega.co.nz/#F!i0NlSLya!IP4NQmBbCxOYdAiOCVJC9w)
